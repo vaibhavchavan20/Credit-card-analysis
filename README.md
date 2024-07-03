@@ -10,5 +10,5 @@ Credit Card Weekly Analysis Report Using SQL, Power BI
 
 Live Power BI Dashboard Link to Power BI Service: 
 
-https://app.powerbi.com/links/fN6KGSeDwX?ctid=f863b45b-5bc3-4d99-94ac-4193884150a7&pbi_source=linkShare
+https://app.powerbi.com/view?r=eyJrIjoiOTZlNjg0M2MtYTIzOC00MjFiLTkyYzItNGIwOGM3ZjdkMGVhIiwidCI6ImY4NjNiNDViLTViYzMtNGQ5OS05NGFjLTQxOTM4ODQxNTBhNyIsImMiOjEwfQ%3D%3D
 
